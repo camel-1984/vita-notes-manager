@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  vita-app:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: vita-app
+    stdin_open: true
+    tty: true

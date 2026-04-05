@@ -1,0 +1,15 @@
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/bin/Debug/net9.0/ConsoleApp
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/bin/Debug/net9.0/ConsoleApp.dll
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.dll
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/rostislavmolcanov/Documents/me/Vita/ConsoleApp/obj/Debug/net9.0/ref/ConsoleApp.dll
